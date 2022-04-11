@@ -9,8 +9,8 @@ Between 2017 and 2018, 2017 was a better year for alternative energy. All of the
 Below are tables displaying the total daily volume and return for each ticker for 2017 and 2018. 
 
 <p align="center">
-  <img src="https://github.com/vrynerson/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true" width="300" height="455">
-  <img src="https://github.com/vrynerson/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true" width="300" height="455">
+  <img src="Resources/VBA_Challenge_2017.png" width="326" height="455">
+  <img src="Resources/VBA_Challenge_2018.png" width="326" height="455">
  </p>
 
 
