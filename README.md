@@ -8,7 +8,7 @@ Between 2017 and 2018, 2017 was a better year for alternative energy. All of the
 
 Below are tables displaying the total daily volume and return for 2017 and 2018.
 
-![image](https://user-images.githubusercontent.com/98570777/162654899-a0f6c526-df8b-45be-8b38-b95c7703a8ff.png)![image](https://user-images.githubusercontent.com/98570777/162654928-0fc274c9-1ef6-4890-8ec9-fb7cce4b1442.png)
+![image](https://user-images.githubusercontent.com/98570777/162654899-a0f6c526-df8b-45be-8b38-b95c7703a8ff.png) height="48" width="48" ![image](https://user-images.githubusercontent.com/98570777/162654928-0fc274c9-1ef6-4890-8ec9-fb7cce4b1442.png)height="48" width="48"
 
 
 
