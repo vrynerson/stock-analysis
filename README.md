@@ -4,13 +4,13 @@ The client wanted to be confident in their financial consultation for investing 
 
 ## Results
 ### Stock Analysis
-Between 2017 and 2018, 2017 was a better year for alternative energy. All of the companies that were a part of this analysis, besides the company with the ticker TERP, had a return in some capacity. The companies with the lowest and highest returns were RUN with a 5.55% return and DQ with a 199.45% return, respectively. If another year was not analyzed, the client would probably have chosen to invest all their money in DQ. Looking at 2018 tells the client that would not be a wise decision. The return on DQ was in the red with -62.60% return, which is the lowest return of all the alternative energy companies. 2018 was not a year for alternative energy. All but two companies' returns were in the negative. RUN and ENPH had returns of 83.95% and 81.92%. Overall, RUN and ENPH would be the best companies to invest in based on 2017 and 2018 dataset. 
+Between 2017 and 2018, 2017 was a better year for alternative energy. All of the companies that were a part of this analysis, besides the company with the ticker TERP, had a return in some capacity. The companies with the lowest and highest returns were RUN with a 5.6% return and DQ with a 199.4% return, respectively. If another year was not analyzed, the client would probably have chosen to invest all their money in DQ. Looking at 2018 tells the client that would not be a wise decision. The return on DQ was in the red with -62.6% return, which is the lowest return of all the alternative energy companies. 2018 was not a year for alternative energy. All but two companies' returns were in the negative. RUN and ENPH had returns of 84.0% and 81.9%. Overall, RUN and ENPH would be the best companies to invest in based on 2017 and 2018 dataset. 
 
 Below are tables displaying the total daily volume and return for each ticker for 2017 and 2018. 
 
 <p align="center">
-  <img src="Resources/VBA_Challenge_2017.png" width="326" height="455">
-  <img src="Resources/VBA_Challenge_2018.png" width="326" height="455">
+  <img src="https://user-images.githubusercontent.com/98570777/162665000-bd2657cc-6edf-4dc8-8ffc-58e5679faad7.png" width="326" height="455">
+  <img src="https://user-images.githubusercontent.com/98570777/162665048-8d43ab3c-7776-42aa-a735-881c85be8d45.png" width="326" height="455">
  </p>
 
 
