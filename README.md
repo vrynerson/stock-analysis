@@ -22,7 +22,8 @@ The amount of time it took to process the data is also shown in the images above
 The advantage of refactoring code leads to a more conscise process, which in turn, leads to a faster process. When working with multiple people on the same coding project, it could be a more positive and efficient experience when collaborating. A disadvantage could be taking the extra time to reconstruct a code that worked well in the first place. It may be that you are unable to refactor the code as you wish it would be and that time could have been spent on a different project. 
 
 ### Refactoring Details
-The refactored code yields and average of an 87% decrease in time for both of the years' data. The refactored script used output arrays versus the original script used variables. The nature of using an array leads to a faster processing time by having the ability to store multiple values while the variable is only able to use one value at a time. The example from the refactored code is shown here:
+The refactored code yields and average of an 87% decrease in time for both of the years' data. The refactored script used output arrays versus the original script used variables. The nature of using an array leads to a faster processing time by having the ability to store multiple values while the variable is only able to use one value at a time. This leads to an increase in speed for the processing. The example from the refactored code is shown here:
+
 ```
     Dim tickerVolumes(12) As Long
     Dim tickerStartingPrices(12) As Single
@@ -31,4 +32,4 @@ The refactored code yields and average of an 87% decrease in time for both of th
 
 A disadvantage to a refactored script is the need to understand the code well enough in the first place to be able to read through and know where to condense code. The ability to debug the large amounts of code involved in a rescript is important to the timely nature needed to finish a project for the client.
 
-In conclusion, both codes worked well and gave the same output in data. The general public are fans of speed, so the client will be happier with the ability to process their data 85% faster.
+In conclusion, both codes worked well and gave the same output in data. The general public are fans of speed, so the client will be happier with the ability to process their data 87% faster.
